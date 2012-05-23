@@ -1,0 +1,4 @@
+news
+====
+
+Notícias de jornais
